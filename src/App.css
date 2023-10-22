@@ -1,0 +1,30 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.container .row{
+  margin-top: -20px;
+}
+
+#h1{
+  font-family: jokerman;
+  color: red;
+}
+
+textarea {
+  width: 700px;
+  height: 250px;
+  background: #f2d9d9;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.word-count {
+  color:black;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 255px;
+}
+
